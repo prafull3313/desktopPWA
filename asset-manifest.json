@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/desktopPWA/static/css/main.2cce8147.chunk.css",
+    "main.js": "/desktopPWA/static/js/main.2d467d03.chunk.js",
+    "main.js.map": "/desktopPWA/static/js/main.2d467d03.chunk.js.map",
+    "runtime~main.js": "/desktopPWA/static/js/runtime~main.4b814943.js",
+    "runtime~main.js.map": "/desktopPWA/static/js/runtime~main.4b814943.js.map",
+    "static/js/2.b41502e9.chunk.js": "/desktopPWA/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/desktopPWA/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/desktopPWA/index.html",
+    "precache-manifest.cd6e8761628824d91368d5285e8f467f.js": "/desktopPWA/precache-manifest.cd6e8761628824d91368d5285e8f467f.js",
+    "service-worker.js": "/desktopPWA/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/desktopPWA/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/desktopPWA/static/media/logo.5d5d9eef.svg"
+  }
+}
